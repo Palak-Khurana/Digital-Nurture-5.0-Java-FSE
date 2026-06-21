@@ -1,0 +1,144 @@
+1. Understand Recursive Algorithms
+What is Recursion?
+
+Recursion is a programming technique where a method calls itself to solve a problem.
+
+A recursive function consists of:
+
+Base Case
+
+The condition that stops recursion.
+
+Recursive Case
+
+The function calls itself with a smaller or simpler input.
+
+Example: Factorial
+int factorial(int n)
+{
+    if(n == 0)
+        return 1;
+
+    return n * factorial(n - 1);
+}
+
+For:
+
+factorial(5)
+
+Execution:
+
+5 × factorial(4)
+5 × 4 × factorial(3)
+5 × 4 × 3 × factorial(2)
+5 × 4 × 3 × 2 × factorial(1)
+5 × 4 × 3 × 2 × 1
+= 120
+Why Recursion?
+
+Recursion simplifies problems that can be broken into smaller subproblems.
+
+Examples:
+
+Factorial
+Fibonacci Series
+Tree Traversal
+Financial Forecasting
+Divide and Conquer Algorithms
+Financial Forecasting Formula
+
+Assume:
+
+Future Value = Present Value × (1 + Growth Rate)^Years
+
+Example:
+
+Present Value = 10000
+Growth Rate = 10% = 0.10
+Years = 3
+
+Calculation:
+
+Year 1 = 10000 × 1.10 = 11000
+Year 2 = 11000 × 1.10 = 12100
+Year 3 = 12100 × 1.10 = 13310
+
+Expected Future Value:
+
+13310
+
+4. Analysis
+Time Complexity
+
+For every year, one recursive call is made.
+
+T(n) = T(n-1) + 1
+
+Therefore:
+
+Time Complexity = O(n)
+
+where:
+
+n = number of years
+Space Complexity
+
+Each recursive call is stored in the call stack.
+
+Space Complexity = O(n)
+How to Optimize?
+Problem
+
+For large values of years:
+
+years = 10000
+
+many recursive calls are created.
+
+This may cause:
+
+StackOverflowError
+Optimization 1: Iterative Solution
+
+Use a loop instead of recursion.
+
+public static double futureValueIterative(
+        double presentValue,
+        double growthRate,
+        int years) {
+
+    double value = presentValue;
+
+    for(int i = 0; i < years; i++) {
+        value *= (1 + growthRate);
+    }
+
+    return value;
+}
+
+Time Complexity:
+
+O(n)
+
+Space Complexity:
+
+O(1)
+Optimization 2: Mathematical Formula
+
+Use:
+
+double futureValue =
+        presentValue *
+        Math.pow(1 + growthRate, years);
+
+Time Complexity:
+
+O(log n)
+
+(Internally optimized)
+
+Time Complexity Comparison
+Method	Time Complexity	Space Complexity
+Recursive	O(n)	O(n)
+Iterative	O(n)	O(1)
+Math.pow()	O(log n)	O(1)
