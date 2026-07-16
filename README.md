@@ -30,6 +30,11 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 | | | ✅ REST - Get Country Based on Country Code |
 | | JWT-handson | ✅ Create Authentication Service that Returns JWT |
 | **Microservices with Spring Boot 3 & Spring Cloud** | Microservices with API Gateway | ✅ Creating Microservices for Account and Loan |
+| **React.js** | ReactJS-HOL | ✅ Hands-on 1 |
+| | ReactJS-HOL | ✅ Hands-on 2 |
+| | ReactJS-HOL | ✅ Hands-on 3 |
+| | ReactJS-HOL | ✅ Hands-on 4 |
+| | ReactJS-HOL | ✅ Hands-on 5 |
 
 ---
 
@@ -43,7 +48,28 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 - ✔️ Spring Core & Maven
 - ✔️ Spring Data JPA with Spring Boot & Hibernate
 - ✔️ Spring REST using Spring Boot 3
-- ✔️ Microservices with Spring Boot 3 & Spring Cloud (In Progress)
+- ✔️ Microservices with Spring Boot 3 & Spring Cloud
+- ✔️ React.js (Hands-on 1–5)
+
+---
+
+## 🚀 Repository Structure
+
+```text
+📦 Digital-Nurture-5.0-Java-FSE
+├── Design Patterns and Principles
+├── Algorithms_Data Structures
+├── PLSQL_Exercises
+├── JUnit Basic Testing Exercises
+├── Mockito Exercises
+├── SLF4J Logging Exercises
+├── Spring Core_Maven
+├── spring-data-jpa-handson
+├── spring-rest-handson
+├── JWT-handson
+├── Microservices with API Gateway
+└── ReactJS-HOL
+```
 
 ---
 
