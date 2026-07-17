@@ -1,0 +1,14 @@
+/* Step 6: "box" class used to wrap each cohort's details */
+.box {
+    width: 300px;
+    display: inline-block;
+    margin: 10px;              /* overall 10px margin */
+    padding: 10px 20px;        /* top/bottom 10px, left/right 20px */
+    border: 1px solid black;   /* 1px black border */
+    border-radius: 10px;       /* 10px border radius */
+}
+
+/* Step 7: tag selector for all <dt> elements */
+dt {
+    font-weight: 500;
+}
