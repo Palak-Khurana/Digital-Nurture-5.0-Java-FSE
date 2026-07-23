@@ -72,5 +72,11 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 ```
 
 ---
+## 📈 Progress Snapshot
+
+<p align="center">
+  <img src="images/progress1.png" alt="Progress Snapshot" width="800">
+  <img src="images/progress2.png" alt="Progress Snapshot" width="800">
+</p>
 
 **Status:** 🚀 Exercises completed till the latest submission. More exercises will be added as the training progresses.
