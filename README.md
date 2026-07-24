@@ -30,11 +30,16 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 | | | ✅ REST - Get Country Based on Country Code |
 | | JWT-handson | ✅ Create Authentication Service that Returns JWT |
 | **Microservices with Spring Boot 3 & Spring Cloud** | Microservices with API Gateway | ✅ Creating Microservices for Account and Loan |
-| **React.js** | ReactJS-HOL | ✅ Hands-on 1 |
-| | ReactJS-HOL | ✅ Hands-on 2 |
-| | ReactJS-HOL | ✅ Hands-on 3 |
-| | ReactJS-HOL | ✅ Hands-on 4 |
-| | ReactJS-HOL | ✅ Hands-on 5 |
+|| **React.js**                                        | ReactJS-HOL                    | ✅ Hands-on 1                                                                                       |
+|                                                     |                                | ✅ Hands-on 2                                                                                       |
+|                                                     |                                | ✅ Hands-on 3                                                                                       |
+|                                                     |                                | ✅ Hands-on 4                                                                                       |
+|                                                     |                                | ✅ Hands-on 5                                                                                       |
+|                                                     |                                | ✅ Hands-on 9                                                                                       |
+|                                                     |                                | ✅ Hands-on 10                                                                                      |
+|                                                     |                                | ✅ Hands-on 11                                                                                      |
+|                                                     |                                | ✅ Hands-on 12                                                                                      |
+|                                                     |                                | ✅ Hands-on 13                                                                                      |
 
 ---
 
