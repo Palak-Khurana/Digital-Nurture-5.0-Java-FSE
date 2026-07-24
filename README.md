@@ -4,34 +4,33 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 
 ## ✅ Completed Exercises
 
-| Module | Folder | Exercise |
-|--------|--------|----------|
-| **Design Principles & Patterns** | Design Patterns and Principles | ✅ Exercise 1: Implementing the Singleton Pattern |
-| | | ✅ Exercise 2: Implementing the Factory Method Pattern |
-| **Data Structures & Algorithms** | Algorithms_Data Structures | ✅ Exercise 2: E-commerce Platform Search Function |
-| | | ✅ Exercise 7: Financial Forecasting |
-| **PL/SQL Programming** | PLSQL_Exercises | ✅ Exercise 1: Control Structures |
-| | | ✅ Exercise 3: Stored Procedures |
-| **TDD using JUnit5 & Mockito** | JUnit Basic Testing Exercises | ✅ Exercise 1: Setting Up JUnit |
-| | | ✅ Exercise 3: Assertions in JUnit |
-| | | ✅ Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and Teardown Methods in JUnit |
-| | Mockito Exercises | ✅ Exercise 1: Mocking and Stubbing |
-| | | ✅ Exercise 2: Verifying Interactions |
-| **SLF4J Logging Framework** | SLF4J Logging Exercises | ✅ Exercise 1: Logging Error Messages and Warning Levels |
-| **Spring Core & Maven** | Spring Core_Maven | ✅ Exercise 1: Configuring a Basic Spring Application |
-| | | ✅ Exercise 2: Implementing Dependency Injection |
-| | | ✅ Exercise 4: Creating and Configuring a Maven Project |
-| **Spring Data JPA with Spring Boot & Hibernate** | spring-data-jpa-handson | ✅ Spring Data JPA - Quick Example |
-| | | ✅ Difference between JPA, Hibernate and Spring Data JPA |
-| **Spring REST using Spring Boot 3** | spring-rest-handson | ✅ Create a Spring Web Project using Maven |
-| | | ✅ Spring Core – Load Country from Spring Configuration XML |
-| | | ✅ Hello World RESTful Web Service |
-| | | ✅ REST - Country Web Service |
-| | | ✅ REST - Get Country Based on Country Code |
-| | JWT-handson | ✅ Create Authentication Service that Returns JWT |
-| **Microservices with Spring Boot 3 & Spring Cloud** | Microservices with API Gateway | ✅ Creating Microservices for Account and Loan |
-|| **React.js**                                        | ReactJS-HOL                    
-                                                                                       | ✅ Hands-on 1                                                                                       |
+| Module                                              | Folder                         | Exercise                                                                                           |
+| --------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- |
+| **Design Principles & Patterns**                    | Design Patterns and Principles | ✅ Exercise 1: Implementing the Singleton Pattern                                                   |
+|                                                     |                                | ✅ Exercise 2: Implementing the Factory Method Pattern                                              |
+| **Data Structures & Algorithms**                    | Algorithms_Data Structures     | ✅ Exercise 2: E-commerce Platform Search Function                                                  |
+|                                                     |                                | ✅ Exercise 7: Financial Forecasting                                                                |
+| **PL/SQL Programming**                              | PLSQL_Exercises                | ✅ Exercise 1: Control Structures                                                                   |
+|                                                     |                                | ✅ Exercise 3: Stored Procedures                                                                    |
+| **TDD using JUnit5 & Mockito**                      | JUnit Basic Testing Exercises  | ✅ Exercise 1: Setting Up JUnit                                                                     |
+|                                                     |                                | ✅ Exercise 3: Assertions in JUnit                                                                  |
+|                                                     |                                | ✅ Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and Teardown Methods in JUnit |
+|                                                     | Mockito Exercises              | ✅ Exercise 1: Mocking and Stubbing                                                                 |
+|                                                     |                                | ✅ Exercise 2: Verifying Interactions                                                               |
+| **SLF4J Logging Framework**                         | SLF4J Logging Exercises        | ✅ Exercise 1: Logging Error Messages and Warning Levels                                            |
+| **Spring Core & Maven**                             | Spring Core_Maven             | ✅ Exercise 1: Configuring a Basic Spring Application                                               |
+|                                                     |                                | ✅ Exercise 2: Implementing Dependency Injection                                                    |
+|                                                     |                                | ✅ Exercise 4: Creating and Configuring a Maven Project                                             |
+| **Spring Data JPA with Spring Boot & Hibernate**    | spring-data-jpa-handson        | ✅ Spring Data JPA - Quick Example                                                                  |
+|                                                     |                                | ✅ Difference between JPA, Hibernate and Spring Data JPA                                            |
+| **Spring REST using Spring Boot 3**                 | spring-rest-handson            | ✅ Create a Spring Web Project using Maven                                                          |
+|                                                     |                                | ✅ Spring Core – Load Country from Spring Configuration XML                                         |
+|                                                     |                                | ✅ Hello World RESTful Web Service                                                                  |
+|                                                     |                                | ✅ REST - Country Web Service                                                                       |
+|                                                     |                                | ✅ REST - Get Country Based on Country Code                                                         |
+|                                                     | JWT-handson                    | ✅ Create Authentication Service that Returns JWT                                                   |
+| **Microservices with Spring Boot 3 & Spring Cloud** | Microservices with API Gateway | ✅ Creating Microservices for Account and Loan                                                      |
+| **React.js**                                        | ReactJS-HOL                    | ✅ Hands-on 1                                                                                       |
 |                                                     |                                | ✅ Hands-on 2                                                                                       |
 |                                                     |                                | ✅ Hands-on 3                                                                                       |
 |                                                     |                                | ✅ Hands-on 4                                                                                       |
@@ -55,7 +54,7 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 - ✔️ Spring Data JPA with Spring Boot & Hibernate
 - ✔️ Spring REST using Spring Boot 3
 - ✔️ Microservices with Spring Boot 3 & Spring Cloud
-- ✔️ React.js (Hands-on 1–5)
+- ✔️ React.js (Hands-on 1–5, 9–13)
 
 ---
 
@@ -78,6 +77,10 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0 - 
 ```
 
 ---
+## 📈 Progress Snapshot
+
+**Status:** 🚀 Exercises completed till the latest submission. More exercises will be added as the training progresses.
+
 ## 📈 Progress Snapshot
 
 <p align="center">
