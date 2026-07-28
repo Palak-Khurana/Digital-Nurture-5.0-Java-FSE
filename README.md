@@ -77,6 +77,6 @@
 
 ---
 
-## 📈 Progress Snapshot
+## 📈 Progress Status
 
 **Status:** ✅ Successfully completed all assigned hands-on exercises for the Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (Java FSE) program.
